@@ -1,0 +1,4 @@
+baseURL = 'https://ssedanur.github.io/my-blog/'
+languageCode = 'tr-TR'
+title = 'Embedded Lab'
+theme = 'toha'
