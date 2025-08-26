@@ -1,4 +1,4 @@
-# 🚀 Embedded Lab - 
+# 🚀 Embedded Lab 
 Gömülü sistemler, robotik ve daha birçok teknoloji odaklı konu üzerine notlarımı ve deneyimlerimi paylaştığım bir blog 
 
 ### 🌐 Blogu Görüntüle
